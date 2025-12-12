@@ -1,0 +1,5 @@
+{
+  "name": "Lector de Misterios",
+  "description": "Una aplicación web con temática OVNI para narrar relatos de misterio utilizando Gemini 2.5 Flash TTS, con una estética futurista y enigmática.",
+  "requestFramePermissions": []
+}
